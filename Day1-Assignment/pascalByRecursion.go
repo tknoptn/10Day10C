@@ -41,7 +41,4 @@ Logic :
 2) Otherwise, it recursively calls pascalRecursive with row-1 and col-1, as well as with row-1 and col
    to calculate the value based on the elements in the previous row.
 
-
-
-
 */

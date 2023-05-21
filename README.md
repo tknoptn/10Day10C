@@ -98,3 +98,18 @@ If it does, it returns the stored value, avoiding redundant calculations.
    to calculate the value based on the elements in the previous row. It then stores the calculated value in the memo map before returning it.
 
 \*/
+
+/\*
+
+**\* Day2 \*\***
+Product managment solution for a productmanager
+
+used :Golang, slices,strings package, stuct , struct methods Looping mechanism, conditonal statements
+
+Features :
+
+1. Add products
+2. list products
+3. search functionality based on text in products list
+4. Get the products based on the location
+5. warranty checking of the products
