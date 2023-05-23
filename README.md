@@ -113,3 +113,13 @@ Features :
 3. search functionality based on text in products list
 4. Get the products based on the location
 5. warranty checking of the products
+
+**_Day 3 _**
+Product managment solution for a productmanager
+
+Used : Created product Table for storage, Tools used: pgadmin4 ,
+Database : PostgreSQL
+Features:
+Added DB Interactivity with PostgreSQL Database
+and Implemented the features to store the products and
+Added search functionality from Database to make the solution robust.
