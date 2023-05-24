@@ -123,3 +123,24 @@ Features:
 Added DB Interactivity with PostgreSQL Database
 and Implemented the features to store the products and
 Added search functionality from Database to make the solution robust.
+
+**_Day 4 _**
+
+Product managment solution for a productmanager
+
+Implemented API layer to leverage the adavantages of API features
+
+Used : Gin,net/http, Database Drivers, PostGresql, Tools used: pgadmin4 ,
+Database : PostgreSQL
+Features:
+API layer to enhance the process with PostgreSQL Database Layer
+and Implemented the routing endpoint and other features to enable
+Ease of Integration , Scalibiltity and flexibility.
+
+Endpoints:
+http://localhost:8080/products
+http://localhost:8080/products
+http://localhost:8080/products/Chair
+http://localhost:8080/products/search?text=Aircond
+http://localhost:8080/products/place?place=mumbai
+http://localhost:8080/products/warranty?year=2023
